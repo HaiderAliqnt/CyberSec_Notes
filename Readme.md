@@ -47,7 +47,7 @@ Following a structured 3-month roadmap covering:
 
 ## 🎓 Background
 
-Fourth-semester CS student focusing on cybersecurity and penetration testing. Combining academic coursework (COAL, DBMS, Automata) with hands-on security practice. Learning by building, breaking, and securing systems.
+CS student focusing on cybersecurity and penetration testing. Combining academic coursework with hands-on security practice. Learning by building, breaking, and securing systems.
 
 ## 📫 Connect
 
