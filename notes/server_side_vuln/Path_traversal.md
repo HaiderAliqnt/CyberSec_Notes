@@ -27,3 +27,4 @@ so the url looks like
 equivalent attack on windows system would be
 **https://insecure-website.com/loadImage?filename=..\..\..\windows\win.ini**
 
+
