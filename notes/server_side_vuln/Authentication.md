@@ -4,21 +4,19 @@
 
 ---
 
-### AUTHENTICATION : 
-verify that a user is who they claim to be.
+## Authentication : 
+verification of whether you are really who you say you are. 
 
-### AUTHORIZATION :
-verify whether a user is allowed to do something.
+Authentication vulnerablities allow acces to sensitive data and functionality.
 
-### BRUTE FORCE : 
-when an attacker uses a system of trial and error to guess valid user credentials. 
+### Brute Force attacks:
+when an attacker uses a system of trial and error to guess valid user credentials. Typically automated and contains common usernames and passwords.
 
-**USERNAME :**
-Easy to guess especially if they conform to a recognizable pattern.Even without an obvious pattern...high privileged accounts are created using predictable usernames eg admin / administrator.
+#### Username Emuration:
+when attacker is able to observe changes in website behaviour to determine if username is valid or not.
 
-**PASSWORD :** 
-Difficulty varies based on strength of password. We can use basic knowledge of human behaviour to exploit vulnerabilities. 
+### Bypassing 2FA
+If the user is first prompted to enter a password, and then prompted to enter a verification code on a separate page, the user is effectively in a "logged in" state before they have entered the verification code. In this case, it is worth testing to see if you can directly skip to "logged-in only" pages after completing the first authentication step.
 
-**USERNAME EMURATION :**
-when an atttacker observes changes in the website's behaviour to judge whether a given username is valid.
-Reduces time and effort required to brute force.
+solved the lab by entering creds , entering the logged in state then...just clicking at the account tab since there was no check preventing access.
+
