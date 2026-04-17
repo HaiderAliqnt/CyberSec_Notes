@@ -1,65 +1,63 @@
-# CTF Prep & Cybersecurity Learning
+# Cybersecurity Learning & Penetration Testing
 
-My personal repository documenting my journey learning penetration testing and preparing for CTF competitions. This repo contains cheat sheets, writeups, custom tools, and notes as I progress through structured security training.
+Personal repository documenting my journey in penetration testing and offensive security. This repository contains technical notes, cheat sheets, writeups, and custom security tools developed through hands-on practice and structured training.
 
-## 📚 What's Inside
+## Repository Contents
 
 ### Cheat Sheets
-Comprehensive reference guides for tools and techniques:
-- **[Nmap Cheat Sheet](cheat-sheets/Nmap_cheatsheet.md)** - Network reconnaissance and port scanning
+Technical reference guides for security tools and methodologies:
+- **[Nmap Cheat Sheet](cheat-sheets/Nmap_cheatsheet.md)** - Network reconnaissance and port scanning techniques
+
+### Notes
+Comprehensive documentation of security concepts and practical applications:
+- **Networking Fundamentals** - TCP/IP, protocols, network architecture
+- **Server-Side Vulnerabilities** - Path traversal, access control, authentication bypasses, SSRF, file upload exploits, OS command injection, SQL injection
 
 ### Writeups
-Documentation of challenges solved and lessons learned:
-- Coming soon: TryHackMe rooms, CTF challenges, VulnHub machines
+Documentation of penetration testing exercises and vulnerability analysis:
+- TryHackMe exercises
+- PortSwigger Academy labs
+- VulnHub machine walkthroughs
 
 ### Tools
-Custom security tools built during learning:
-- Coming soon: Port scanner, crypto toolkit, automation scripts
+Custom security tools and automation scripts:
+- Port scanner implementations
+- Cryptographic utilities
+- Penetration testing automation
 
-## 🎯 Learning Path
-
-Following a structured 3-month roadmap covering:
-- **Month 1:** Reconnaissance, web fundamentals, cryptography, Linux mastery
-- **Month 2:** Web exploitation, forensics, reverse engineering, privilege escalation
-- **Month 3:** CTF practice, weak spot drilling, competition preparation
-
-**Current Status:** Week 1 Complete - Nmap & Network Reconnaissance ✅
-
-## 🛠️ Tech Stack
+## Technical Stack
 
 **Languages:** Python, C++, Bash  
-**Security Tools:** Nmap, Burp Suite, Metasploit, Wireshark, Gobuster  
-**Platforms:** Kali Linux, TryHackMe, picoCTF, HackTheBox  
-**Environment:** VirtualBox home lab with intentionally vulnerable targets
+**Security Tools:** Nmap, Burp Suite, Metasploit, Wireshark, Gobuster, sqlmap  
+**Platforms:** Kali Linux, TryHackMe, PortSwigger Academy, HackTheBox  
+**Lab Environment:** Isolated VirtualBox network with intentionally vulnerable systems
 
-## 🏠 Home Lab
+## Lab Infrastructure
 
-- **Attack Machine:** Kali Linux
-- **Practice Targets:** Metasploitable2, DVWA
-- **Network:** Isolated VirtualBox NAT environment
+- **Attack Platform:** Kali Linux
+- **Vulnerable Targets:** Metasploitable2, DVWA, custom vulnerable applications
+- **Network Configuration:** Isolated NAT environment for safe testing
 
-## 📖 Learning Resources
+## Learning Resources
 
-- [TryHackMe](https://tryhackme.com) - Structured learning paths
-- [picoCTF](https://picoctf.org) - Beginner-friendly CTF challenges
-- [HackTheBox](https://hackthebox.com) - Practice machines
-- [OWASP](https://owasp.org) - Web security standards
+- [TryHackMe](https://tryhackme.com) - Practical security training
+- [PortSwigger Academy](https://portswigger.net/web-security) - Web security methodology
+- [HackTheBox](https://hackthebox.com) - Advanced penetration testing practice
+- [OWASP](https://owasp.org) - Web application security standards
 
-## 🎓 Background
+## Background
 
-CS student focusing on cybersecurity and penetration testing. Combining academic coursework with hands-on security practice. Learning by building, breaking, and securing systems.
+Computer Science student specializing in cybersecurity and penetration testing. This repository represents practical application of offensive security concepts learned through academic study and hands-on exploitation of vulnerable systems in controlled environments.
 
-## 📫 Connect
+## Contact
 
-- **LinkedIn:** https://www.linkedin.com/in/haider-ali-35b72b304/
-- **GitHub:** You're already here!
+**LinkedIn:** https://www.linkedin.com/in/haider-ali-35b72b304/  
+**GitHub:** https://github.com/[your-username]
 
-## 📝 Note
+## Disclaimer
 
-These are learning notes and personal references. All security testing is performed in isolated lab environments on systems I own or have explicit permission to test. Ethical hacking only.
+All security testing documented in this repository is conducted exclusively in isolated lab environments on systems I own or have explicit authorization to test. This work is intended for educational purposes and ethical security research only.
 
 ---
 
-**"You can't defend what you don't understand. You can't attack what you can't see."**
-
-*Last Updated: February 2026*
+**Last Updated:** February 2026
