@@ -12,6 +12,7 @@ Technical reference guides for security tools and methodologies:
 Comprehensive documentation of security concepts and practical applications:
 - **Networking Fundamentals** - TCP/IP, protocols, network architecture
 - **Server-Side Vulnerabilities** - Path traversal, access control, authentication bypasses, SSRF, file upload exploits, OS command injection, SQL injection
+- **C for Hackers** - Memory management, buffer overflows, exploitation primitives (coming soon)
 
 ### Writeups
 Documentation of penetration testing exercises and vulnerability analysis:
@@ -52,7 +53,7 @@ Computer Science student specializing in cybersecurity and penetration testing. 
 ## Contact
 
 **LinkedIn:** https://www.linkedin.com/in/haider-ali-35b72b304/  
-**GitHub:** https://github.com/[your-username]
+**GitHub:** https://github.com/HaiderAliqnt
 
 ## Disclaimer
 
